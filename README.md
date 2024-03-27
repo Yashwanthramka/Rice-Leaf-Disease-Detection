@@ -1,11 +1,10 @@
 #<h1 align="center">Rice Leaf Disease Detection
-
-<p align="center">This repository contains a solution aimed at improving the accuracy and reliability of bacterial leaf blight detection in rice crops through the use of computer vision (CV) techniques. By implementing image processing operations for preprocessing input images, we ensure optimal feature extraction, enabling the CV model to effectively handle real-world agricultural data.
+<p align="left">This repository contains a solution aimed at improving the accuracy and reliability of bacterial leaf blight detection in rice crops through the use of computer vision (CV) techniques. By implementing image processing operations for preprocessing input images, we ensure optimal feature extraction, enabling the CV model to effectively handle real-world agricultural data.
 
 ##<h2 align="left">Implemented CV Techniques
 <p align="left">This project implements various computer vision (CV) techniques to enhance the accuracy and reliability of bacterial leaf blight detection in rice crops. The implemented techniques include:
 
-###<h2 align="left">Preprocessing Techniques
+<h2 align="left">Preprocessing Techniques
 <p align="left">Noise Reduction (Gaussian Blur): Utilized to reduce noise and smoothen images.
 <p align="left">Space Transformation: Applied for transforming color spaces or resizing images.
 <p align="left">Histogram Equalization: Employed to enhance the contrast of images.
